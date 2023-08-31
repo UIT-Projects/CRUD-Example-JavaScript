@@ -28,8 +28,8 @@ This project demonstrates how to build a basic CRUD application using Node.js an
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/nodejs-crud-example.git`
-2. Navigate to the project directory: `cd nodejs-crud-example`
+1. Clone the repository: `git clone https://github.com/yourusername/CRUD-Example-NodeJs.git`
+2. Navigate to the project directory: `cd CRUD-Example-NodeJs`
 3. Configure your database connection in the `.env` file.
 4. Install dependencies: `npm install`
 5. Run the application: `node index.js`
